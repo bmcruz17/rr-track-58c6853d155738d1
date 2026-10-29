@@ -1,9 +1,9 @@
 {
  "client": "Business Plans Hawaii",
  "greeting": "Aloha Valerie",
- "updated": "Wed Oct 28, 2026, 3:10 PM HST",
- "headline": "Your new website is in the planning stage",
- "message": "Watch your new Business Plans Hawaii website go from kickoff to launch, one step at a time. Your current site stays exactly as it is until you approve the new one. I update this page at every step.",
+ "updated": "Wed Oct 28, 2026, 5:30 PM HST",
+ "headline": "Your agreement is ready to sign",
+ "message": "Your short agreement has been sent to you by email. Once it is signed and the $750 is paid, we kick off on Friday, Oct 30 at 10 AM HST. The build takes about 5 business days, and you see a private preview before anything goes live. Your current site stays exactly as it is until you approve the new one. I update this page at every step.",
  "payUrl": "https://pay.rankrebels.ai/b/6oU8wPcadgkKgzXaCX8AE0u",
  "payAmount": "$750",
  "phone": "(808) 265-5339",
@@ -11,10 +11,10 @@
  "stages": [
   {
    "id": "agree",
-   "title": "Agreement and payment received",
-   "state": "active",
+   "title": "Agreement sent: awaiting your signature",
+   "state": "waiting",
    "badge": "Your turn",
-   "note": "One flat fee of $750, due on receipt, covers the full rebuild and the move to Framer. The short agreement spells out exactly what is included. Framer itself is about $10 a month, billed by Framer straight to you, and you own that account.",
+   "note": "Your agreement is in your email with a link to sign online. One flat fee of $750 covers the full rebuild and the move to Framer. Framer itself is about $10 a month, billed by Framer straight to you, and you own that account.",
    "button": "pay"
   },
   {
@@ -52,5 +52,9 @@
    "badge": "Up next",
    "note": "We go through your new site together, live, so you know how everything works and how to ask for changes."
   }
- ]
+ ],
+ "estimate": {
+  "iso": "2026-11-06",
+  "note": "Kickoff is Friday, Oct 30 at 10 AM HST, and the build takes about 5 business days, with your preview before launch. This is the date we are working toward. If we finish sooner, great, and you will see it right here."
+ }
 }
