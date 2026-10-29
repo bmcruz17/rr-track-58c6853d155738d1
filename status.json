@@ -1,0 +1,56 @@
+{
+ "client": "Business Plans Hawaii",
+ "greeting": "Aloha Valerie",
+ "updated": "Wed Oct 28, 2026, 3:10 PM HST",
+ "headline": "Your new website is in the planning stage",
+ "message": "Watch your new Business Plans Hawaii website go from kickoff to launch, one step at a time. Your current site stays exactly as it is until you approve the new one. I update this page at every step.",
+ "payUrl": "https://pay.rankrebels.ai/b/6oU8wPcadgkKgzXaCX8AE0u",
+ "payAmount": "$750",
+ "phone": "(808) 265-5339",
+ "phoneTel": "+18082655339",
+ "stages": [
+  {
+   "id": "agree",
+   "title": "Agreement and payment received",
+   "state": "active",
+   "badge": "Your turn",
+   "note": "One flat fee of $750, due on receipt, covers the full rebuild and the move to Framer. The short agreement spells out exactly what is included. Framer itself is about $10 a month, billed by Framer straight to you, and you own that account.",
+   "button": "pay"
+  },
+  {
+   "id": "access",
+   "title": "Access to your site and domain",
+   "state": "upcoming",
+   "badge": "Up next",
+   "note": "I need access to your current site and to where your domain is managed, so I can copy your pages and, at launch, point the same web address to the new site. You can remove my access any time."
+  },
+  {
+   "id": "build",
+   "title": "Build in Framer",
+   "state": "upcoming",
+   "badge": "Up next",
+   "note": "I rebuild your site in Framer on your own account. The work takes about 5 business days from the day I have access and your go-ahead."
+  },
+  {
+   "id": "preview",
+   "title": "Preview for your approval",
+   "state": "upcoming",
+   "badge": "Up next",
+   "note": "You get a private preview link and look it over: the words, the photos and the layout. Your live site is not touched, and nothing goes live without your OK."
+  },
+  {
+   "id": "launch",
+   "title": "Launch on your domain",
+   "state": "upcoming",
+   "badge": "Up next",
+   "note": "After your OK, the new site goes live on your same web address, and I check the real site, not just the preview."
+  },
+  {
+   "id": "walkthrough",
+   "title": "Walkthrough",
+   "state": "upcoming",
+   "badge": "Up next",
+   "note": "We go through your new site together, live, so you know how everything works and how to ask for changes."
+  }
+ ]
+}
